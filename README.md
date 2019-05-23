@@ -1,6 +1,7 @@
 # Data-Science-Bootcamp
-This comprehensive course will be your guide to learning how to use the power of Python to analyze data, create beautiful visualizations, and use powerful machine learning algorithms.
+This comprehensive course on Udemy -- **Python for Data Science and Machine Learning Bootcamp** is a guide to learning how to use the power of Python to analyze data, create beautiful visualizations, and apply powerful machine learning algorithms.
 
+What I've learnt
 - Use Python for Data Science and Machine Learning
 - Use Spark for Big Data Analysis
 - Implement Machine Learning Algorithms
